@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Joseph
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+
+Welcome to my digital space!
+
+## 👨‍💻 About Me
+
+I’m a **Full Stack Web Developer**, **Cross-Platform App Developer**, **Data Science Analyst**, **Ethical Hacker**, and **Cybersecurity Expert** passionate about building impactful digital solutions.
+
+- 🔐 Skilled in ethical hacking and cybersecurity with a focus on secure systems development
+- 🌐 Full stack developer experienced in building dynamic websites and scalable web applications
+- 📱 Developing cross-platform mobile apps using modern frameworks
+- 📊 Applying data science and machine learning to extract insights and drive decisions
+- 🔍 Penetration testing and cyber defense techniques for real-world security challenges
